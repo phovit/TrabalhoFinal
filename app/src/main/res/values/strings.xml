@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="facebook_app_id">1884615108495116</string>
+    <string name="fb_login_protocol_scheme">fb1884615108495116</string>
+
+
+    <string name="action_item1">Item1</string>
+    <string name="action_item2">item 2</string>
+    <string name="action_item3">item 3</string>
+
+
+</resources>
